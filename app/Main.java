@@ -15,6 +15,6 @@ public class Main {
             System.out.println(BLUE + i + RESET + ") " + "Num " + RED + "is " + BLUE + i + RESET + ", " +
                     RED + "sum is " + RESET + BLUE + m + RESET);
         }
-        System.out.println("_______________________\n" + "Sum of numbers " + RED + "is " + BLUE + m);
+        System.out.println("______________________\n Sum of numbers " + RED + "is " + BLUE + m);
     }
 }
